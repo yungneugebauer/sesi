@@ -1,8 +1,8 @@
 {
     "Header": {
 
-        "title": "Portugues",
-        "paragraph": "Aspectos linguísticos da língua portuguesa: norma culta, variação linguística, tempos e modos verbais, grau de formalidade, conectivos lógicos, regras ortográficas, etc."
+        "title": "Lingua Portguesa e Literatura",
+        "paragraph": "CAPÍTULO 1 – A INDÚSTRIA METALÚRGICA E A LITERATURA"
 
     },
     "About": {
@@ -114,23 +114,23 @@
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Substantivos",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "O PROCESSO DE FUNDIÇÃO, EM DETALHE",
+            "text": "A fabricação dos caracteres metálicos inventada por Johannes Gutenberg é uma cadeia de várias operações de mecânica de precisão, um processo moroso e difícil, que se desenvolvia em três fases distintas.."
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Artigos",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "O QUE É UM GÊNERO LITERÁRIO? ",
+            "text": "Agora, vamos teorizar um pouco sobre estes gêneros literários. Conhecendo-os melhor, podemos pensar um pouco mais nas atitudes que tomamos quando estamos sozinhos ou em contato com alguém, por exemplo, no trabalho ou na família.."
         },
         {
             "icon": "fa fa-group",
-            "title": "Adjetivos",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "AS FUNÇÕES DA LINGUAGEM",
+            "text": "A fala é o uso que cada um de nós faz da língua que herdamos. A nossa língua pátria (ou língua mãe) é o português, porque fomos colonizados por portugueses. Aqui já moravam os índios que também influenciaram no nosso jeito de falar."
         },
         {
             "icon": "fa fa-magic",
-            "title": "Pronomes",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "VALOR DENOTATIVO E CONOTATIVO DAS PALAVRAS",
+            "text": "Ao longo dos dois capítulos anteriores deste ebook, que iniciam o estudo da nossa língua portuguesa, tenho insistido na capacidade humana de criarmos sentidos."
         }
     ]
 }
