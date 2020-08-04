@@ -1,7 +1,9 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 
 export class Services extends Component {
   render() {
+    //Matérias
     return (
       <div id="services" className="text-center">
         <div className="container">
@@ -15,16 +17,20 @@ export class Services extends Component {
           <div className="row">
             {this.props.data
               ? this.props.data.map((d, i) => (
-                  <div  key={`${d.name}-${i}`} className="col-md-4">
-                    {" "}
-                    <i className={d.icon} onClick={()=>{window.open('pagina.html','pagename')}} > </i>
+                  <div key={`${d.name}-${i}`} className="col-md-4">
+                    {' '}
+                    <Link to={d.path}>
+                      <i className={d.icon} onClick={() => {}}>
+                        {' '}
+                      </i>
+                    </Link>
                     <div className="service-desc">
                       <h3>{d.name}</h3>
                       <p>{d.text}</p>
                     </div>
                   </div>
                 ))
-              : "loading"}
+              : 'loading'}
           </div>
         </div>
       </div>

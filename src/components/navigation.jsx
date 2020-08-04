@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 
 export class Navigation extends Component {
   render() {
@@ -12,15 +12,14 @@ export class Navigation extends Component {
               data-toggle="collapse"
               data-target="#bs-example-navbar-collapse-1"
             >
-              {" "}
-              <span className="sr-only">Toggle navigation</span>{" "}
-              <span className="icon-bar"></span>{" "}
-              <span className="icon-bar"></span>{" "}
-              <span className="icon-bar"></span>{" "}
+              <span className="sr-only">Toggle navigation</span>{' '}
+              <span className="icon-bar"></span>{' '}
+              <span className="icon-bar"></span>{' '}
+              <span className="icon-bar"></span>{' '}
             </button>
             <a className="navbar-brand page-scroll" href="#page-top">
-              Portugues/Literatura
-            </a>{" "}
+              Português/Literatura
+            </a>{' '}
           </div>
 
           <div
@@ -35,7 +34,7 @@ export class Navigation extends Component {
               </li>
               <li>
                 <a href="#about" className="page-scroll">
-                  Curiosidade
+                  Tópico
                 </a>
               </li>
               <li>
@@ -51,16 +50,6 @@ export class Navigation extends Component {
               <li>
                 <a href="#testimonials" className="page-scroll">
                   Alunos
-                </a>
-              </li>
-              <li>
-                <a href="#team" className="page-scroll">
-                  Team
-                </a>
-              </li>
-              <li>
-                <a href="#contact" className="page-scroll">
-                  Contato
                 </a>
               </li>
             </ul>
