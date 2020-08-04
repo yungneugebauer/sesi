@@ -18,10 +18,10 @@ export class Header extends Component {
                   </p>
                   <a
                     id="veja"
-                    href="#features"
+                    href="#services"
                     className="btn btn-custom btn-lg page-scroll"
                   >
-                    Veja mais
+                    Capítulos
                   </a>{' '}
                 </div>
               </div>
