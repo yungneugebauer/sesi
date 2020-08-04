@@ -22,32 +22,32 @@
     },
     "Services": [{
             "icon": "fa fa-pie-chart",
-            "name": "Sociologia",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+            "name": "Capítulo 1",
+            "text": "A indústria metalurgica e a literatura",
             "path": "/materia"
 
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "História",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+            "name": "Capítulo 2",
+            "text": "A minha pátria é minha lingua?",
             "path": "/materia/materia2"
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "Geografia",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+            "name": "Capítulo 3",
+            "text": "Sentidos para além dos significados",
             "path": "/materia/materia3"
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "Filosofia",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
+            "name": "Capítulo 4",
+            "text": "A literatura e a indústria têxtil e do vestúario",
             "path": "/materia/materia4"
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "Fase 1",
+            "name": "Capítulo 5",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.",
             "path": "/materia/materia5"
         },
